@@ -207,22 +207,6 @@ The system is evaluated using:
 
 ---
 
-# Project Structure
-
-```text
-├── data/
-├── models/
-├── outputs/
-├── figures/
-├── pbl4.py
-├── requirements.txt
-├── README.md
-├── report.pdf
-└── synopsis.pdf
-```
-
----
-
 # Installation
 
 ## Clone Repository
